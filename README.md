@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Learning Journey
+#  Machine Learning Learning Journey
 
 A structured, hands-on repository documenting my journey of learning **Machine Learning from fundamentals to advanced concepts**.
 
@@ -8,7 +8,7 @@ This repository contains my daily practice, implementations, experiments, notes,
 
 ---
 
-## 👨‍💻 About This Repository
+##  About This Repository
 
 This repository is my personal **Machine Learning learning journey**.
 
@@ -27,9 +27,9 @@ The repository is continuously updated as I learn new concepts.
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
-### 📊 Data Handling & Exploratory Data Analysis
+###  Data Handling & Exploratory Data Analysis
 
 - Data Loading
 - CSV Data
@@ -43,7 +43,7 @@ The repository is continuously updated as I learn new concepts.
 - Data Visualization
 - Pandas Profiling
 
-### 🧹 Data Preprocessing
+###  Data Preprocessing
 
 - Missing Value Handling
 - Complete Case Analysis
@@ -56,7 +56,7 @@ The repository is continuously updated as I learn new concepts.
 - Z-Score
 - IQR Method
 
-### 🛠️ Feature Engineering
+###  Feature Engineering
 
 - Feature Construction
 - Feature Splitting
@@ -71,12 +71,12 @@ The repository is continuously updated as I learn new concepts.
 - Date & Time Variables
 - Mixed Variables
 
-### 📉 Dimensionality Reduction
+###  Dimensionality Reduction
 
 - Principal Component Analysis (PCA)
 - PCA on Image Data
 
-### 📈 Regression
+###  Regression
 
 - Simple Linear Regression
 - Multiple Linear Regression
@@ -87,7 +87,7 @@ The repository is continuously updated as I learn new concepts.
 - RMSE
 - R² Score
 
-### ⚙️ Optimization
+###  Optimization
 
 - Gradient Descent
 - Batch Gradient Descent
@@ -95,7 +95,7 @@ The repository is continuously updated as I learn new concepts.
 - Mini-Batch Gradient Descent
 - Gradient Descent Implementation from Scratch
 
-### 🛡️ Regularization
+###  Regularization
 
 - Ridge Regression
 - Ridge Regression from Scratch
@@ -103,7 +103,7 @@ The repository is continuously updated as I learn new concepts.
 - Lasso Regression
 - Elastic Net Regression
 
-### 🔢 Classification
+###  Classification
 
 - Logistic Regression
 - Logistic Regression with Gradient Descent
@@ -114,7 +114,7 @@ The repository is continuously updated as I learn new concepts.
 
 ---
 
-# 📚 Learning Progress
+#  Learning Progress
 
 ## Phase 1 — Data Understanding
 
@@ -212,7 +212,7 @@ The repository is continuously updated as I learn new concepts.
 
 ---
 
-# 🧰 Tools & Technologies
+#  Tools & Technologies
 
 ### Programming
 
@@ -246,7 +246,7 @@ The repository is continuously updated as I learn new concepts.
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 ml-learning/
